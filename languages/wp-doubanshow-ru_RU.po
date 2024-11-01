@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-DoubanShow\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-07 11:09+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fat Cow <zhr@tut.by>\n"
+"Language-Team: Fat Cow <zhr@tut.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "DoubanShow"
+msgstr "DoubanShow"
+
+msgid "Wants to see"
+msgstr "Хотите увидеть"
+
+msgid "Has seen"
+msgstr "Видели"
+
+msgid "Wants to read"
+msgstr "Хотят прочесть"
+
+msgid "Is reading"
+msgstr "Читается"
+
+msgid "Has read"
+msgstr "Читают"
+
+msgid "Wants to listen"
+msgstr "Хотят послушать"
+
+msgid "Is listening"
+msgstr "слушается"
+
+msgid "Has listened"
+msgstr "Прослушано"
+
+msgid "DoubanShow Options"
+msgstr "Настройки DoubanShow "
+
+msgid "Douban ID:"
+msgstr "Douban ID:"
+
+msgid "Enter your Douban ID."
+msgstr "Введите ваш Douban ID:"
+
+msgid "API key:"
+msgstr "API ключ："
+
+msgid "Non-essential.<a href='http://www.douban.com/service/apikey/apply' target='_blank'>Apply</a>"
+msgstr "Несущественно.<a href='http://www.douban.com/service/apikey/apply' target='_blank'>Применить</a>"
+
+msgid "Show my profile:"
+msgstr "Показать мой профиль："
+
+msgid "Show the movies I want to see:"
+msgstr "Показать видео, котрое я хочу видеть："
+
+msgid "Show the movies I have seen:"
+msgstr "Показать видео, котрое я видел："
+
+msgid "Show the books I want to read:"
+msgstr "Показать книги, котрые я хочу читать："
+
+msgid "Show the books I am reading:"
+msgstr "Показать книги, котрые я читаю："
+
+msgid "Show the movies I have read:"
+msgstr "Показать видео, которое я смотрел："
+
+msgid "Show the music I want to listen:"
+msgstr "Показать музыку, котрую я хочу послушать："
+
+msgid "Show the music I am listening:"
+msgstr "Показать музыку, котрую я слушаю："
+
+msgid "Show the music I have listened:"
+msgstr "Показать музыку, котрую я слушал："
+
+msgid "Show my recommendation:"
+msgstr "Показать мои рекомендации："
+
+msgid "Number:"
+msgstr "Номер："
+
+msgid "Update Successful"
+msgstr "Обновление осуществилось"
+
+msgid "Update Failed"
+msgstr "Обновление не осуществилось"
+
+msgid "Display Power by DoubanShow?"
+msgstr "Показать Power by DoubanShow？"
+

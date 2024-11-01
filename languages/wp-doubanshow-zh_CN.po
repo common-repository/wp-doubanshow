@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-DoubanShow 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-06-07 11:09+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Robb <http://www.robb.com.cn/plugins/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "DoubanShow"
+msgstr "豆瓣秀"
+
+msgid "Wants to see"
+msgstr "想看"
+
+msgid "Has seen"
+msgstr "看过"
+
+msgid "Wants to read"
+msgstr "想读"
+
+msgid "Is reading"
+msgstr "正读"
+
+msgid "Has read"
+msgstr "读过"
+
+msgid "Wants to listen"
+msgstr "想听"
+
+msgid "Is listening"
+msgstr "正听"
+
+msgid "Has listened"
+msgstr "听过"
+
+msgid "DoubanShow Options"
+msgstr "豆瓣秀设置"
+
+msgid "Douban ID:"
+msgstr "用户ID："
+
+msgid "Enter your Douban ID."
+msgstr "输入您在豆瓣的ID"
+
+msgid "API key:"
+msgstr "API key："
+
+msgid "Non-essential.<a href='http://www.douban.com/service/apikey/apply' target='_blank'>Apply</a>"
+msgstr "非必需，如不填可能因对API请求次数过多被API封闭，暂时无法更新豆瓣秀。<a href='http://www.douban.com/service/apikey/apply' target='_blank'>申请地址</a>"
+
+msgid "Show my profile:"
+msgstr "显示我的个人资料："
+
+msgid "Show the movies I want to see:"
+msgstr "显示我想看的电影："
+
+msgid "Show the movies I have seen:"
+msgstr "显示我看过的电影："
+
+msgid "Show the books I want to read:"
+msgstr "显示我想读的书："
+
+msgid "Show the books I am reading:"
+msgstr "显示我在读的书："
+
+msgid "Show the movies I have read:"
+msgstr "显示我看过的书："
+
+msgid "Show the music I want to listen:"
+msgstr "显示我想听的音乐："
+
+msgid "Show the music I am listening:"
+msgstr "显示我在听的音乐："
+
+msgid "Show the music I have listened:"
+msgstr "显示我听过的音乐："
+
+msgid "Show my recommendation:"
+msgstr "显示我的推荐："
+
+msgid "Number:"
+msgstr "显示数量："
+
+msgid "Update Successful"
+msgstr "更新成功"
+
+msgid "Update Failed"
+msgstr "更新失败"
+
+msgid "Display Power by DoubanShow?"
+msgstr "是否显示Power by DoubanShow？"
+
